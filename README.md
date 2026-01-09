@@ -1,5 +1,8 @@
 # 💫 About Me:
-Ahora mismo estoy tarbajando en proyectos proyectos de desarrollo web, tanto frontend como backend, enfocándome en mejorar mi código y aprender buenas prácticas.<br>Estoy buscando para colaborar en Aplicaciones web, proyectos en equipo y cualquier idea que me ayude a aprender tecnologías reales del sector.<br>Busco Mejorar mi nivel en frameworks modernos y optimizar mis proyectos para que sean más escalables.<br>Ahora mismo etoy Vue, Laravel, MySQL, desarrollo full-stack y herramientas que se usan en entornos profesionales.
+🚀 Actualmente trabajo en proyectos de desarrollo web frontend y backend, enfocándome en mejorar mi código y aplicar buenas prácticas.
+🤝 Busco colaborar en aplicaciones web, proyectos en equipo y cualquier iniciativa que me permita aprender tecnologías reales del sector.
+📈 Mi objetivo es mejorar mi nivel en frameworks modernos y optimizar mis proyectos para que sean escalables y mantenibles.
+🛠️ Trabajo con Vue, Laravel, MySQL y desarrollo full-stack, utilizando herramientas propias de entornos profesionales.
 
 
 # 💻 Tech Stack:
